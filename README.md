@@ -5,7 +5,8 @@ when you want to access it login page will be shown to log in either using admin
 
 The Database file (accountsdb) should be located in the following path: E:\BM-JavaTest\
 
-to run the application make sure you have java 15 installed and latest maven, then navigate to the directory of the application and run mvn spring-boot:run
+To run the application make sure you have java 15 installed and latest maven, then navigate to the directory of the application and run mvn spring-boot:run
+(Or you can import the project as Maven existed project using latest eclipse version and Run the DemoApplication as Java Application
 
 THe link to access account statement is
 http://localhost:8080/accountStatement/{id} where id the account id
